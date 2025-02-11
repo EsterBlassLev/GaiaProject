@@ -11,14 +11,9 @@ namespace Calculator.Data.Entities
 {
     public class CalculationHistory
     {
-        //public CalculationHistory()
-        //{
-        //    operation = new Operations();
-        //}
 
         [Key]
         public int? HistoryId { get; set; }
-        //[ForeignKey("Operations")]
         public int OperationId { get; set; }  
         public string? FieldA { get; set; }
         public string? FieldB { get; set; }

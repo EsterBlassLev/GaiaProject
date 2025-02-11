@@ -12,14 +12,6 @@ namespace Calculator.Core.Models
         public string FieldA { get; set; }
         public string FieldB { get; set; }
         public string OperationType { get; set; }
-        DataType InputType { get; }
 
-    }
-
-    public enum DataType
-    {
-        Number,
-        String,
-        Date
     }
 }
