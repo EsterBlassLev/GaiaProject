@@ -1,0 +1,17 @@
+C:\Users\USER\Desktop\calculator\GaiaProject.Data\bin\Debug\net6.0\Calculator.Data.deps.json
+C:\Users\USER\Desktop\calculator\GaiaProject.Data\bin\Debug\net6.0\Calculator.Data.runtimeconfig.json
+C:\Users\USER\Desktop\calculator\GaiaProject.Data\bin\Debug\net6.0\Calculator.Data.dll
+C:\Users\USER\Desktop\calculator\GaiaProject.Data\bin\Debug\net6.0\Calculator.Data.pdb
+C:\Users\USER\Desktop\calculator\GaiaProject.Data\bin\Debug\net6.0\Calculator.Core.dll
+C:\Users\USER\Desktop\calculator\GaiaProject.Data\bin\Debug\net6.0\Calculator.Core.pdb
+C:\Users\USER\Desktop\calculator\GaiaProject.Data\obj\Debug\net6.0\Calculator.Data.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\calculator\GaiaProject.Data\obj\Debug\net6.0\Calculator.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\calculator\GaiaProject.Data\obj\Debug\net6.0\Calculator.Data.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\calculator\GaiaProject.Data\obj\Debug\net6.0\Calculator.Data.AssemblyInfo.cs
+C:\Users\USER\Desktop\calculator\GaiaProject.Data\obj\Debug\net6.0\Calculator.Data.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\calculator\GaiaProject.Data\obj\Debug\net6.0\Calculator.Data.csproj.CopyComplete
+C:\Users\USER\Desktop\calculator\GaiaProject.Data\obj\Debug\net6.0\Calculator.Data.dll
+C:\Users\USER\Desktop\calculator\GaiaProject.Data\obj\Debug\net6.0\refint\Calculator.Data.dll
+C:\Users\USER\Desktop\calculator\GaiaProject.Data\obj\Debug\net6.0\Calculator.Data.pdb
+C:\Users\USER\Desktop\calculator\GaiaProject.Data\obj\Debug\net6.0\Calculator.Data.genruntimeconfig.cache
+C:\Users\USER\Desktop\calculator\GaiaProject.Data\obj\Debug\net6.0\ref\Calculator.Data.dll
